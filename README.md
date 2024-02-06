@@ -1,4 +1,8 @@
-# Includes
+# Task List
+
+This application is made for storing and adding tasks, checking their state, description. The user can read,modify,delete the tasks or upload a new one.
+
+## Includes
 
 * Routing
 * Blade templates, layouts
