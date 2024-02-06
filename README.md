@@ -10,7 +10,7 @@ This application is made for storing and adding tasks, checking their state, des
 * Models, Migrations, Model Seeder
 * POST, GET Methods
 * Forms with CSFR protection 
-* Reading and uploading data
+* Reading and uploading data with validation
 
 
 
