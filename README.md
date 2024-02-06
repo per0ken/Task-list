@@ -4,6 +4,7 @@
 * Blade templates, layouts
 * MySQL Database running with Docker
 * Models, Migrations, Model Seeder
+* POST, GET Methods
 * Forms with CSFR protection 
 * Reading and uploading data
 
