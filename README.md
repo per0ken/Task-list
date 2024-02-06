@@ -1,3 +1,25 @@
+# Task List
+
+This application is made for storing and adding tasks, checking their state, description. The user can read,modify,delete the tasks or upload a new one.
+
+## Includes
+
+* Routing
+* Blade templates, layouts
+* MySQL Database running with Docker
+* Models, Migrations, Model Seeder
+* POST, GET Methods
+* Forms with CSFR protection 
+* Reading and uploading data with validation
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
