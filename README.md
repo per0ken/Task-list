@@ -22,7 +22,7 @@ This application is made for adding and storing tasks, checking their state, des
 
 * "composer install"
 * "php artisan key:generate"
-* "php artisan migrate"
+* "php artisan migrate:refresh --seed"
 * "php artisan serve"
 * "docker compuse up"
 * .env update with own settings
