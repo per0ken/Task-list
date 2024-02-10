@@ -20,12 +20,12 @@ This application is made for adding and storing tasks, checking their state, des
 
 ## Project deploy
 
-"composer install"
-.env update with own settings
-"php artisan key:generate"
-"php artisan migrate"
-"php artisan serve"
-"docker compuse up"
+* "composer install"
+* .env update with own settings
+* "php artisan key:generate"
+* "php artisan migrate"
+* "php artisan serve"
+* "docker compuse up"
 
 ## Versions
 PHP 8.2.12
