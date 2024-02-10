@@ -18,12 +18,24 @@ This application is made for adding and storing tasks, checking their state, des
 * Tailwind CSS Styling
 * Alpine.JS
 
+## Project deploy
 
+"composer install"
+.env update with own settings
+"php artisan key:generate"
+"php artisan migrate"
+"php artisan serve"
+"docker compuse up"
 
+## Versions
+PHP 8.2.12
+MYSQL 8.0.36
+Composer 2.6.6
+Laravel 10.41.0
+Docker 4.27.1
 
-
-
-
+## Made By
+Péter Lukács
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
