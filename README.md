@@ -1,16 +1,22 @@
 # Task List
 
-This application is made for storing and adding tasks, checking their state, description. The user can read,modify,delete the tasks or upload a new one.
+This application is made for adding and storing, checking their state, description. The user can read,modify,delete the tasks or upload a new one with a user friendly interface.
 
 ## Includes
 
-* Routing
-* Blade templates, layouts
 * MySQL Database running with Docker
-* Models, Migrations, Model Seeder
-* POST, GET Methods
-* Forms with CSFR protection 
 * Reading and uploading data with validation
+* Models, Migrations, Model Seeder
+* Reusable Blade views, section and include
+* POST, GET, PUT, Delete Methods
+* Route Model Binding
+* Mass Assignment
+* Form Requests
+* Routing
+* Forms with CSFR protection
+* Blade templates, layouts
+* Tailwind CSS Styling
+* Alpine.JS
 
 
 
