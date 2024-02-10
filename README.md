@@ -1,6 +1,6 @@
 # Task List
 
-This application is made for adding and storing, checking their state, description. The user can read,modify,delete the tasks or upload a new one with a user friendly interface.
+This application is made for adding and storing tasks, checking their state, description. The user can read, modify, delete the tasks or upload a new one with a user friendly interface.
 
 ## Includes
 
